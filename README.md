@@ -1,5 +1,8 @@
 # Build
 
+
+Detail Reference: https://kealiu.github.io/Resize-Image-On-The-Fly-Using-Lambda-at-Edge-and-Cloudfront-With-S3/
+
 - chagne the bucket name in source code
 - build and upload to AWS
 
